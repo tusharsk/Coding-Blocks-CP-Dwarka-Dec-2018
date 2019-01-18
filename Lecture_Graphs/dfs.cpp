@@ -105,10 +105,7 @@ bool dfs(ll node,ll &x,ll &y,ll cur,vector<vector<ll> > &v,vector<ll> &num,vi &v
     return false;
 
 }
- journey to the moon ( HR )
-    Buglife spoj
-    Longest Path in tree spoj
-    BITMAP spoj
+
 int main()
 {
     ll t;
