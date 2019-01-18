@@ -98,7 +98,7 @@ int main()
         {
             a[i]=v1[i]-v1[i-1]-1;
             b[i]=v2[i]-v2[i-1]-1;
-            trace(a[i],b[i]);
+           //trace(a[i],b[i]);
         }
         sort(ALL(a));
         sort(ALL(b));
