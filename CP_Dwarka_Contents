@@ -1,0 +1,124 @@
+----------------- Dwara CP 18 
+
+STL 
+https://www.hackerearth.com/practice/notes/heaps-and-priority-queues/   // Heaps and priority_queue
+
+
+introduction (all basic containers)+basics of CP
+vector/stack/queue/deque
+comparator
+string
+functors;
+priority_queue
+set hashmap
+searching
+
+
+
+----------------------------Lecture 01_______Mathematics ----------------------------------------
+Birthday paradox
+Liner Recurrences 
+     http://fusharblog.com/solving-linear-recurrence-for-programming-contest-part-2/ 
+     q: summing sum spoj
+     q: seq
+     q: spp
+Pigeon hole principle----------
+1. Divisible Subset (hackerblocks)
+2. Gray code 
+3. graph: Holiday Accomodation
+
+
+Bit masking -------------
+1. paying up codechef
+
+
+----------------------------Lecture 02________Number theory---------------------------------------
+Sieve
+    q: kth prime number (using bitset)
+    q:  TDPRIMES
+CRT
+
+Liner Diophantine equation :
+    blog : https://cp-algorithms.com/algebra/linear-diophantine-equation.html#toc-tgt-0
+    Spoj - Crucial Equation
+    SGU 106 code forces
+    Codeforces - Ebony and Ivory
+    Codechef - Get AC in one go
+    LightOj - Solutions to an equation
+
+Fermat
+Wilsion
+Euler theorem
+Lucas theorem
+    codechef engine and his homework
+
+
+----------------------------Lecture 03_________Binary Search----------------------------------------
+BINARY SEARCH-----
+1. binary search : upper and lower bound functions 
+2. square root of n using BSunsigned digit and decimal part 
+3. AGGRCOW- spoj
+4. Read minimum pages
+5. Paratha spoj
+6. 
+7. eko
+8. book allocation 
+9. painters problem
+
+Meet in Middle 
+    subsum meet in middle
+    E. Maximum Subsequence cf Meet in the middle
+
+
+--------------------------Lecture_04_________Greedy--------------------------------------------
+Intro 
+    https://www.iarcs.org.in/inoi/online-study-material/topics/greedy.php
+    Speculating on Buffalos
+    Backup (APIO 2007)
+    Teleporters (IOI 2008)
+    Sails (IOI 2007)
+
+
+
+--------------------------Lecture_05__________DP-----------------------------------------------
+
+Questions
+    https://www.codechef.com/problems/MARRAYS
+    https://www.codechef.com/JAN18/problems/STRMRG/
+    https://www.codechef.com/NOV18A/problems/GMEDIAN/
+
+--------------------------Lecture_06__________Graph-----------------------------------------
+1. Intro 
+2. BFS
+3. DFS
+4. Cycle Detection in directed graphs 
+    journey to the moon ( HR )
+    Buglife spoj
+    Longest Path in tree spoj
+    BITMAP spoj
+5. Topological sort 
+
+Questions :
+    http://codeforces.com/contest/1093/problem/D   // graph 
+    Tree + segtree 
+        https://www.codechef.com/problems/TYTACTIC 
+        https://www.codechef.com/problems/PSHTTR
+
+
+--------------------------Lecture_07_________Gametheory----------------------------------
+https://medium.com/@lohitmarodia/game-theory-competitive-programming-98120cc14da3
+MMMGAME — M&M Game [SPOJ]
+QCJ3 — The Game [SPOJ]
+GAME3 — Yet Another Fancy Game [SPOJ]
+GAME31 — The game of 31 [SPOJ]
+Stone Game [CodeChef]
+
+
+-------------------------Lecture_08__________MO's ALgo srd--------------------------------
+SQRT decomposition
+    https://www.commonlounge.com/discussion/1fa4a34760ba49d38612d7b3af77d18c
+    intro 
+    implementation
+    ques
+        Chef And Easy Xor Queries // codechef
+        killing monsters codechef jan long
